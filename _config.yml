@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hankyeul Yang"
 title_separator          : "-"
 name                     : &name "Hankyeul (Hank) Yang"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Hank Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "College Station"
   employer         : "Texas A&M University"
   uri              : # URL
   email            : "yanghankyeul@tamu.edu" 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
