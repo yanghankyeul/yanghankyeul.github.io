@@ -9,9 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Working Papers
+Working Papers 
 ======
-* Ph.D in Political Science, Texas A&M University, 2025 (expected)
-* M.A. in Political Science and International Relations, Korea University, 2019
-* B.A. in International Studies and Economics, Korea University, 2012
+(Invited to Revise and Resubmit)
+* Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen)
+* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li)
+* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability
+(Submitted)
+* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė)
+
+
+Job Market Paper
+======
+* Major Power Rivalry and Wedge Strategy of Concessions (Job Market Paper)
+
+
+In Progress
+======
+* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala)
+* Legacy of French Colonialism and Leader Survival (with Ringailė Kuokštytė)
+
 
