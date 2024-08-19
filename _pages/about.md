@@ -12,6 +12,8 @@ I am an International Relations scholar with a focus on security and alliance po
 I also have methodological interest in applied Bayesian statistics and spatial econometrics.
 For more information on my current research projects, please click [here](https://yanghankyeul.github.io/research/).
 
+E-mail: yanghankyeul@tamu.edu
+
 
 
 
