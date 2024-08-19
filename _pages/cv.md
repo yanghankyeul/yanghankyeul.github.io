@@ -24,7 +24,7 @@ Working Papers (Invited to Revise and Resubmit)
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability
 
 
-Teaching experience
+Teaching
 ======
 * Fall 2020: Quantitative Political Analysis I (Graduate. Instructor: Casey Crisman-Cox)
 * Spring 2021: Maximum Likelihood Estimation (Graduate. Instructor: Scott Cook)
