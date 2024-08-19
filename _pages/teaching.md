@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: ""
+title: #""
 permalink: /teaching/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
