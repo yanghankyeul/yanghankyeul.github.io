@@ -15,6 +15,7 @@ Working Papers
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li)
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability
+======
 (Submitted)
 * Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė)
 
