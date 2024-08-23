@@ -39,3 +39,4 @@ Teaching
 Service
 ======
 * Student Senator. Department of Political Science (2021)
+* Replication Assistant. Political Science Research and Methods (2021-2023)
