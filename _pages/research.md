@@ -28,9 +28,9 @@ In Progress
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala)
 [Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
 * Legacy of French Colonialism and Leader Survival (with Ringailė Kuokštytė)
-* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė: submitted)
+* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė)
 [Download](https://yanghankyeul.github.io/files/frenchvisits.pdf)
-* The Effect of Withdrawing from the CFA Union on French Foreign Aid: Assessment of the Madagascar Case with the Synthetic Control Method (with Ringailė Kuokštytė: submitted)
+* The Effect of Withdrawing from the CFA Union on French Foreign Aid: Assessment of the Madagascar Case with the Synthetic Control Method (with Ringailė Kuokštytė)
 [Download](https://yanghankyeul.github.io/files/cfa.pdf)
 
 
