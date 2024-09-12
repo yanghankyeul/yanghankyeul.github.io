@@ -25,6 +25,7 @@ Job Market Paper
 In Progress
 ======
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala)
+paperurl: 'https://yanghankyeul.github.io/files/paper1.pdf'
 * Legacy of French Colonialism and Leader Survival (with Ringailė Kuokštytė)
 * Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė: submitted)
 
