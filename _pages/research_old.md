@@ -20,6 +20,7 @@ Working Papers
 Job Market Paper
 ======
 * Major Power Rivalry and Wedge Strategy of Concessions (Job Market Paper)
+[Download](https://yanghankyeul.github.io/files/JMP.pdf)
 
 
 In Progress
