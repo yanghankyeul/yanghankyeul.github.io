@@ -21,7 +21,7 @@ repository               : "yanghankyeul/yanghankyeul.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  #avatar           : #"profile.png"
   name             : "Hank Yang"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Political Science at Texas A&M University"
