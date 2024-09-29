@@ -21,7 +21,8 @@ Teaching Assistant
 
 Instructor
 ======
-* Spring 2023: Theory of International Relations
+* Fall 2023: Theory of International Relations
+* Spring 2024: Theory of International Relations
 * Fall 2024: Theory of International Relations
 
 
