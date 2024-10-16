@@ -21,6 +21,8 @@ Research
 Working Papers (Invited to Revise and Resubmit)
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee)
+* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė)
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability
 
 
