@@ -18,9 +18,7 @@ Education
 
 Research
 ======
-(Accepted)
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at Foreign Policy Analysis)
-(Invited to Revise and Resubmit)
 * Major Power Rivalry and Wedge Strategy of Concessions (R&R at Journal of Conflict Resolution)
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at International Studies Quarterly)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at Journal of Peace Research)

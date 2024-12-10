@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Working Papers 
+Accepted 
 ======
-(Accepted)
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at Foreign Policy Analysis)
+
+Working Papers
 ======
 (Invited to Revise and Resubmit)
 * Major Power Rivalry and Wedge Strategy of Concessions (R&R at Journal of Conflict Resolution)
