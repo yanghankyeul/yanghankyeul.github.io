@@ -11,7 +11,7 @@ redirect_from:
 
 Accepted 
 ======
-* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at \textit{Foreign Policy Analysis})
+* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
 
 Working Papers
 ======
