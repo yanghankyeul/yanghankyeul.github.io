@@ -18,12 +18,12 @@ Education
 
 Research
 ======
-* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at Foreign Policy Analysis)
-* Major Power Rivalry and Wedge Strategy of Concessions (R&R at Journal of Conflict Resolution)
-* Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at International Studies Quarterly)
-* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at Journal of Peace Research)
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; R&R at Contemporary Security Policy)
-* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; R&R at Conflict Management and Peace Science)
+* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
+* Major Power Rivalry and Wedge Strategy of Concessions (R&R at the _Journal of Conflict Resolution_)
+* Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at _International Studies Quarterly_)
+* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at the _Journal of Peace Research_)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; R&R at _Contemporary Security Policy_)
+* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; R&R at _Conflict Management and Peace Science_)
 
 
 Teaching
