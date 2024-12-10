@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](https://yanghankyeul.github.io/files/CV.pdf)
+
 Education
 ======
 * Ph.D in Political Science, Texas A&M University, 2025 (expected)
