@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a hard copy of my CV [here](https://yanghankyeul.github.io/files/CV.pdf)
+Download a copy of my CV [here](https://yanghankyeul.github.io/files/CV.pdf)
 
 Education
 ======
