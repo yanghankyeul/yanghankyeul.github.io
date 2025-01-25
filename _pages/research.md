@@ -12,6 +12,8 @@ redirect_from:
 Accepted 
 ======
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; accepted at _Contemporary Security Policy_)
+
 
 Working Papers
 ======
@@ -20,8 +22,8 @@ Working Papers
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at _International Studies Quarterly_)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at the _Journal of Peace Research_)
 * Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; R&R at _Conflict Management and Peace Science_)
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; R&R at _Contemporary Security Policy_)
-
+* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; R&R at _Political Analysis_)
+[Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
 
 
 Job Market Paper
@@ -32,8 +34,6 @@ Job Market Paper
 
 In Progress
 ======
-* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala)
-[Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
 * Legacy of French Colonialism and Leader Survival (with Ringailė Kuokštytė)
 * The Effect of Withdrawing from the CFA Union on French Foreign Aid: Assessment of the Madagascar Case with the Synthetic Control Method (with Ringailė Kuokštytė)
 [Download](https://yanghankyeul.github.io/files/cfa.pdf)
