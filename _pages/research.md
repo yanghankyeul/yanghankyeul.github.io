@@ -12,7 +12,6 @@ redirect_from:
 Accepted 
 ======
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; accepted at _Contemporary Security Policy_)
 
 
 Working Papers
@@ -24,6 +23,7 @@ Working Papers
 * Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; R&R at _Conflict Management and Peace Science_)
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; R&R at _Political Analysis_)
 [Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; conditionally accepted at _Contemporary Security Policy_)
 
 
 Job Market Paper
