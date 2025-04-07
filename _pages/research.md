@@ -12,7 +12,7 @@ redirect_from:
 Accepted 
 ======
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; conditionally accepted at _Contemporary Security Policy_)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; accepted at _Contemporary Security Policy_)
 
 
 Working Papers
@@ -28,7 +28,6 @@ Working Papers
 Job Market Paper
 ======
 * Major Power Rivalry and Wedge Strategy of Concessions (Job Market Paper)
-[Download](https://yanghankyeul.github.io/files/JMP.pdf)
 
 
 In Progress
