@@ -26,4 +26,8 @@ Instructor
 * Fall 2024: Theory of International Relations
 
 
+Resources
+======
+* Understanding Bayesian factor analysis (Quinn 2004): [Download](https://yanghankyeul.github.io/files/Quinn2004.R) 
+
 
