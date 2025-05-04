@@ -1,4 +1,4 @@
-# Bayesian Mixed Factor Analysis
+# Bayesian Factor Analysis
 # Implementation of Quinn (2004)
 
 rm(list=ls())
