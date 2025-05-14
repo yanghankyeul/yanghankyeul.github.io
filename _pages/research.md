@@ -32,7 +32,7 @@ Job Market Paper
 
 In Progress
 ======
-* Do Reassurance Measures Reassure? Political Ideology and Sender-Receiver Gap in Asymmetric Alliances (with Chamseul Yu) [Download](https://yanghankyeul.github.io/files/reassurance.pdf)
+* Do Reassurance Measures Reassure? Political Ideology and Sender-Receiver Gap in Asymmetric Alliances (with Chamseul Yu)
 * Legacy of French Colonialism and Leader Survival (with Ringailė Kuokštytė)
 * The Effect of Withdrawing from the CFA Union on French Foreign Aid: Assessment of the Madagascar Case with the Synthetic Control Method (with Ringailė Kuokštytė)
 
