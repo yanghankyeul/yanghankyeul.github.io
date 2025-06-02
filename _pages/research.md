@@ -21,7 +21,7 @@ Working Papers
 * Major Power Rivalry and Wedge Strategy of Concessions (R&R at the _Journal of Conflict Resolution_)
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at _International Studies Quarterly_)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at the _Journal of Peace Research_)
-* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; R&R at _Conflict Management and Peace Science_)
+* Introducing the New Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; R&R at _Conflict Management and Peace Science_)
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; R&R at _Political Analysis_)
 
 
@@ -33,8 +33,5 @@ Job Market Paper
 In Progress
 ======
 * Do Reassurance Measures Reassure? Political Ideology and Sender-Receiver Gap in Asymmetric Alliances (with Chamseul Yu)
-* Legacy of French Colonialism and Leader Survival (with Ringailė Kuokštytė)
-* The Effect of Withdrawing from the CFA Union on French Foreign Aid: Assessment of the Madagascar Case with the Synthetic Control Method (with Ringailė Kuokštytė)
-
 
 
