@@ -11,8 +11,8 @@ redirect_from:
 
 Publications 
 ======
-* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; accepted at _Contemporary Security Policy_)
+* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (_Foreign Policy Analysis_)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; _Contemporary Security Policy_)
 
 
 Working Papers
