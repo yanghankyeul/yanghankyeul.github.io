@@ -283,8 +283,7 @@ for (t in 2:iter){
       gamma_j_cutpoint_candidate_length <- length(unique(X[,j])) - 2 # no. of cutpoints to be drawn
       # There are six categories for j = 4. In this case, need the cutpoints for 2,3,4,5 and thus, gamma_j_cutpoint_candidate_length is 4
       C_j <- as.numeric(as.character(max(unique(X[,j])))) # no. of categories
-      #t2j <- 1.5
-      
+
       gamma_j_cutpoint_candidate_store_temp <- matrix(NA, nrow = 1, ncol = (gamma_j_cutpoint_candidate_length+3))
       gamma_j_cutpoint_candidate_store_temp[1,1] = -Inf # gamma_j0 = -Inf
       gamma_j_cutpoint_candidate_store_temp[1,2] = 0 # gamma_j1 = 0
