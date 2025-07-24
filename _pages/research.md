@@ -27,6 +27,7 @@ Working Papers
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at _International Studies Quarterly_)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at the _Journal of Peace Research_)
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; R&R at _Political Analysis_)
+[Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
 
 
 Job Market Paper
