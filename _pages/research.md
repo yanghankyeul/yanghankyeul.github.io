@@ -17,8 +17,8 @@ Publications
 
 Conditionally Accepted
 ======
-* Introducing the New Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; at _Conflict Management and Peace Science_)
-* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; at _Political Analysis_)
+* Introducing the New Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; _Conflict Management and Peace Science_)
+* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; _Political Analysis_)
 [Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
 
 
