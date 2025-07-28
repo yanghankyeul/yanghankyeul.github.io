@@ -20,13 +20,13 @@ Conditionally Accepted
 * Introducing the New Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; _Conflict Management and Peace Science_)
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; _Political Analysis_)
 [Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
+* Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; _International Studies Quarterly_)
 
 
 Working Papers
 ======
 (Invited to Revise and Resubmit)
 * Major Power Rivalry and Wedge Strategy of Concessions (R&R at the _Journal of Conflict Resolution_)
-* Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; R&R at _International Studies Quarterly_)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at the _Journal of Peace Research_)
 
 
