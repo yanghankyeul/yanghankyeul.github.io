@@ -20,8 +20,8 @@ Education
 
 Research
 ======
-* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (accepted at _Foreign Policy Analysis_)
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; accepted at _Contemporary Security Policy_)
+* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (_Foreign Policy Analysis_)
+* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; _Contemporary Security Policy_)
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; conditionally accepted at _International Studies Quarterly_)
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; conditionally accepted at _Political Analysis_)
 * Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; conditionally accepted at _Conflict Management and Peace Science_)
