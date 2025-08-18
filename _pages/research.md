@@ -22,6 +22,7 @@ Revise and Resubmits
 ======
 * Major Power Rivalry and Wedge Strategy of Concessions (R&R at the _Journal of Conflict Resolution_)
 * Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; R&R at the _Journal of Peace Research_)
+[Download](https://yanghankyeul.github.io/files/extdepalliance.pdf)
 
 
 Job Market Paper
