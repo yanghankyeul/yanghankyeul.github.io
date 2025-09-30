@@ -13,7 +13,7 @@ Download a copy of my CV [here](https://yanghankyeul.github.io/files/CV.pdf)
 
 Education
 ======
-* Ph.D in Political Science, Texas A&M University, 2025 (expected)
+* Ph.D in Political Science, Texas A&M University, 2026 (expected)
 * M.A. in Political Science and International Relations, Korea University, 2019
 * B.A. in International Studies and Economics, Korea University, 2012
 
