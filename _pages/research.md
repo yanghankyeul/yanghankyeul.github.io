@@ -30,6 +30,8 @@ In Progress
 ======
 * Do Reassurance Signals Reassure? Political Ideology and Sender-Receiver Gap in Asymmetric Alliances (with Chamseul Yu)
 [Download](https://yanghankyeul.github.io/files/reassurance.pdf)
+* Reassurance, Resolve and Wedge Strategy
+[Abstract](https://yanghankyeul.github.io/files/reassurance_resolve_wedgestrategy_abstract.pdf)
 
 
 
