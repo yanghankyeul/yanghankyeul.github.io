@@ -28,7 +28,8 @@ Instructor
 
 Resources
 ======
-* Understanding Bayesian factor analysis (Quinn 2004): [Download](https://yanghankyeul.github.io/files/Quinn2004.R)
+* Understanding Bayesian factor analysis (Quinn, 2004): [Download](https://yanghankyeul.github.io/files/Quinn2004.R)
+* Understanding Bayesian estimation of ERGM (Caimo and Friel, 2011): [Download](https://yanghankyeul.github.io/files/CaimoFriel2011.R)
 * Undergraduate Formal IR Notes: [Download](https://yanghankyeul.github.io/files/undergraduate_formal_ir_notes.pdf)
 
 
