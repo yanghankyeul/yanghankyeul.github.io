@@ -15,9 +15,9 @@ Publications
 * U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; _Contemporary Security Policy_)
 * Major Power Rivalry and Wedge Strategy of Concessions (conditionally accepted at the _Journal of Conflict Resolution_)
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; conditionally accepted at _International Studies Quarterly_)
-* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; conditionally accepted at _Political Analysis_)
-* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; conditionally accepted at the _Journal of Peace Research_)
-* Introducing the New Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; conditionally accepted at _Conflict Management and Peace Science_)
+* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; conditionally accepted at _Political Analysis_) [Download](https://yanghankyeul.github.io/files/hierarchicalspatialmodels.pdf)
+* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; conditionally accepted at the _Journal of Peace Research_) [Download](https://yanghankyeul.github.io/files/extdepalliance.pdf)
+* Introducing the New Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; _Conflict Management and Peace Science_)
 
 
 Job Market Paper
