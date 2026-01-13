@@ -23,10 +23,10 @@ Research
 * Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability (_Foreign Policy Analysis_)
 * U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee; _Contemporary Security Policy_)
 * Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen; conditionally accepted at _International Studies Quarterly_)
-* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; conditionally accepted at _Political Analysis_)
-* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; conditionally accepted at _Conflict Management and Peace Science_)
+* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala; forthcoming accepted at _Political Analysis_)
+* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė; at _Conflict Management and Peace Science_)
 * Major Power Rivalry and Wedge Strategy of Concessions (conditionally accepted at the _Journal of Conflict Resolution_)
-* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; conditionally accepted at the _Journal of Peace Research_)
+* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li; forthcoming at the _Journal of Peace Research_)
 
 
 
