@@ -26,7 +26,7 @@ Research
 * Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala). _Political Analysis_. 2026.
 * Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė). _Conflict Management and Peace Science_. 2025.
 * Major Power Rivalry and Wedge Strategy of Concessions. _Journal of Conflict Resolution_. 2026.
-* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li). _Journal of Peace Research_.
+* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li). _Journal of Peace Research_. 2026.
 
 
 
