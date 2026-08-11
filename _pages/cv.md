@@ -11,22 +11,26 @@ redirect_from:
 
 Download a copy of my CV [here](https://yanghankyeul.github.io/files/CV.pdf)
 
+Employment
+======
+* Stanton Nuclear Security Postdoctoral Fellow, Hertie School, 2026
+
 Education
 ======
-* Ph.D in Political Science, Texas A&M University, 2026 (expected)
+* Ph.D in Political Science, Texas A&M University, 2026
 * M.A. in Political Science and International Relations, Korea University, 2019
 * B.A. in International Studies and Economics, Korea University, 2012
 
 
 Research
 ======
-* Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Proteges' Nuclear Capability. _Foreign Policy Analysis_. 2025.
-* U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics (with Daekwon Son and Kyung Suk Lee). _Contemporary Security Policy_. 2025.
-* Revisiting Our Understanding of Major Power Diplomacy (with Chen Shen). _International Studies Quarterly_. 2026.
-* Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables (with Ali Kagalwala). _Political Analysis_. 2026.
-* Introducing the Diplomatic Visits with France Dataset, 1950-2020 (with Ringailė Kuokštytė). _Conflict Management and Peace Science_. 2025.
-* Major Power Rivalry and Wedge Strategy of Concessions. _Journal of Conflict Resolution_. 2026.
-* Extended Trade Dependence, Alliance Network, and Conflict Initiation (with Quan Li). _Journal of Peace Research_. 2026.
+* Shen, Chen, and **Hankyeul Yang**. Revisiting Our Understanding of Major Power Diplomacy: The Causes and Consequences of High-Level Diplomatic Visits with China, 1960-2020. _International Studies Quarterly_. 2026.
+* Li, Quan and **Hankyeul Yang**. Extended Trade Dependence, Alliance Network, and Conflict Initiation. _Journal of Peace Research_. 2026.
+* Kagalwala, Ali and **Hankyeul Yang**. Modeling Hierarchical Spatial Interdependence for Limited Dependent Variables. _Political Analysis_. 2026.
+* **Yang, Hankyeul**. Major Power Rivalry and Wedge Strategy of Concessions. _Journal of Conflict Resolution_. 2026.
+* **Yang, Hankyeul**, and Ringailė Kuokštytė. Introducing the New Diplomatic Visits with France Dataset, 1950-2020. _Conflict Management and Peace Science_. 2025.
+* **Yang, Hankyeul**. Nuclear Latency: Janus-faced Consequences of U.S. Political Influence for Prot\'eg\'es' Nuclear Capability. _Foreign Policy Analysis_. 2025.
+* Lee, Kyung Suk, **Hankyeul Yang**, and Daekwon Son. U.S. Allies’ Foreign Policy Alignment in an Era of Great Power Competition: An Analysis of Domestic Politics. _Contemporary Security Policy_. 2025.
 
 
 
