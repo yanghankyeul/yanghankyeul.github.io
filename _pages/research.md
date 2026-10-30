@@ -30,8 +30,8 @@ In Progress
 ======
 * Do Reassurance Signals Reassure? Political Ideology and Sender-Receiver Gap in Asymmetric Alliances (with Chamseul Yu)
 [Download](https://yanghankyeul.github.io/files/reassurance.pdf)
-* Reassurance, Resolve and Wedge Strategy
-[Abstract](https://yanghankyeul.github.io/files/reassurance_resolve_wedgestrategy_abstract.pdf)
-
+* Taking Dynamics Seriously in Binary Time-Series-Cross-Sectional Designs (with Müge Acarlar and Ali Kagalwala)
+[Abstract](https://yanghankyeul.github.io/files/btscs.pdf)
+* Stanton Nuclear Security Project (working paper available upon request) 
 
 
